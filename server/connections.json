@@ -1,0 +1,34 @@
+[
+  {
+    "id": "fods_dvo",
+    "name": "FOODS Davao",
+    "server": "FODSSERVER",
+    "database": "POS3",
+    "user": "sa",
+    "passwordEnv": "FODS_DB_PASSWORD"
+  },
+  {
+    "id": "e3_dvo",
+    "name": "E3 Davao",
+    "server": "E3SERVER",
+    "database": "POS3",
+    "user": "sa",
+    "passwordEnv": "E3_DB_PASSWORD"
+  },
+  {
+    "id": "sheila",
+    "name": "Backup Server",
+    "server": "IT-SHEILA",
+    "database": "POS4_ICE",
+    "user": "sa",
+    "passwordEnv": "SHEILA_DB_PASSWORD"
+  },
+  {
+    "id": "tplus_fuel",
+    "name": "TPlus Fuel",
+    "server": "fuelserver",
+    "database": "POS3_Fuel",
+    "user": "sa",
+    "passwordEnv": "FUEL_DB_PASSWORD"
+  }
+]
